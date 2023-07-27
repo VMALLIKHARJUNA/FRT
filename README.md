@@ -71,6 +71,7 @@ SCREENSHOTS
 ![Health Bot-2 1](https://github.com/VMALLIKHARJUNA/FRT/assets/99603294/fd00c36d-0ae2-44e1-ba5d-2a330bcb7470)
 
 
+![Feedback](https://github.com/VMALLIKHARJUNA/FRT/assets/99603294/28029cab-1717-456c-9f6b-37394032983c)
 
 
 Healthbot
