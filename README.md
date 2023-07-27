@@ -61,8 +61,14 @@ SCREENSHOTS
 
 #Healthbot:
 
+![Health Bot-1](https://github.com/VMALLIKHARJUNA/FRT/assets/99603294/be628449-199f-4fae-be58-046bd34a4c9d)
 
-![Health Bot](https://github.com/VMALLIKHARJUNA/FRT/assets/99603294/b5b2d483-e8b4-48c2-86c4-f4a6792e05c8)
+![Health Bot-1 1](https://github.com/VMALLIKHARJUNA/FRT/assets/99603294/92d8405b-b35d-4f14-804b-3ac452f7e654)
+
+![Health Bot-2](https://github.com/VMALLIKHARJUNA/FRT/assets/99603294/9ea7f8f5-cf29-4a9a-8d1d-d01a0a781bbb)
+
+
+![Health Bot-2 1](https://github.com/VMALLIKHARJUNA/FRT/assets/99603294/fd00c36d-0ae2-44e1-ba5d-2a330bcb7470)
 
 
 
