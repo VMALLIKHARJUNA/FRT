@@ -2,7 +2,7 @@
 This is a web application developed for online medical services in India. ### I designed this web application for Future Ready Talent Internship
 
 **PROJECT LINK **[--https://white-ground-0c4607400.3.azurestaticapps.net](https://calm-mushroom-0c0326600.3.azurestaticapps.net/)
-Demo Video Link--[[https://youtu.be/8DAcwy70bbw](https://youtube.com/watch?v=R3s02FJEz9o&feature=share)](https://youtu.be/np8Tm9CWlsA)
+Demo Video Link--https://youtu.be/np8Tm9CWlsA
 
 Azure Technologies used for project😀😀 --Static web apps --Health bot
 
